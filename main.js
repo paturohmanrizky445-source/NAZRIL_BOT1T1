@@ -2,9 +2,9 @@ process.on('uncaughtException', console.error)
 process.on('unhandledRejection', console.error)
 
 /*
-	* Create By GlobalTechInfo
-	* Follow https://github.com/GlobalTechInfo
-	* Whatsapp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+	* Create By [NazrilBot]
+	* Follow Tiktok @Nzrlhahha1234
+	* Whatsapp : 6283862149722
 */
 
 require('./settings');
