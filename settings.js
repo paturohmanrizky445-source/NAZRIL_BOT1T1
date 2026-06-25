@@ -2,7 +2,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By GlobalTechInfo
+	* Create By [NazrilBot]
 	* Follow https://github.com/GlobalTechInfo
 	* Whatsapp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 */
@@ -10,7 +10,7 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 
-global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').map(v => v.trim()) : ['923204566005'];
+global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').map(v => v.trim()) : ['6283862149722'];
 
 global.packname = process.env.PACKNAME || 'BOT';
 global.author = process.env.AUTHOR || 'GlobalTechInfo';
@@ -25,10 +25,10 @@ global.pairing_code = process.env.PAIRING_CODE !== 'false';
 global.number_bot = process.env.BOT_NUMBER || '';
 
 global.my = {
-	yt: process.env.MY_YOUTUBE || 'https://youtube.com/@GlobalTechInfo',
-	gh: process.env.MY_GITHUB || 'https://github.com/GlobalTechInfo',
-	gc: process.env.MY_GROUP || 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
-	ch: process.env.MY_CHANNEL || '120363319098372999@newsletter'
+	yt: process.env.MY_YOUTUBE || '@Nazril_Bot',
+	gh: process.env.MY_GITHUB || '@Nazril_Bot',
+	gc: process.env.MY_GROUP || '@Nazril_Bot',
+	ch: process.env.MY_CHANNEL || '@Nazril_Bot'
 }
 global.limit = {
 	free: 100,
