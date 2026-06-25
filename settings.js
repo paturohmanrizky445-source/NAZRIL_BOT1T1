@@ -3,8 +3,8 @@ const chalk = require('chalk');
 
 /*
 	* Create By [NazrilBot]
-	* Follow https://github.com/GlobalTechInfo
-	* Whatsapp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+	* Follow Tiktok @Nzrlhahah1456
+	* Whatsapp : [6283862149722]
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
@@ -13,8 +13,8 @@ const chalk = require('chalk');
 global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').map(v => v.trim()) : ['6283862149722'];
 
 global.packname = process.env.PACKNAME || 'BOT';
-global.author = process.env.AUTHOR || 'GlobalTechInfo';
-global.botname = process.env.BOT_NAME || 'GLOBAL-XMD';
+global.author = process.env.AUTHOR || 'NazrilBot';
+global.botname = process.env.BOT_NAME || 'NazrilBog';
 global.listprefix = process.env.PREFIX ? process.env.PREFIX.split(',') : ['+','!','.'];
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆'];
 
