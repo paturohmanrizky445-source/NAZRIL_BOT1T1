@@ -14,9 +14,9 @@ const { isUrl, getGroupAdmins, generateMessageTag, getBuffer, getSizeMedia, fetc
 const { jidNormalizedUser, proto, getBinaryNodeChildren, getBinaryNodeChild, generateMessageIDV2, jidEncode, encodeSignedDeviceIdentity, generateWAMessageContent, generateForwardMessageContent, prepareWAMessageMedia, delay, areJidsSameUser, extractMessageContent, generateMessageID, downloadContentFromMessage, generateWAMessageFromContent, jidDecode, generateWAMessage, toBuffer, getContentType, WAMessageStubType, getDevice } = require('baileys');
 
 /*
-	* Created By GlobalTechInfo 
-	* Follow https://github.com/GlobalTechInfo
-	* Whatsapp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+	* Created By NazrilBot 
+	* Follow belum ada github gasy
+	* Whatsapp : 6283862149722
 */
 
 async function GroupUpdate(qasim, m, store) {
